@@ -12,6 +12,7 @@ shadow to the title */
     text-shadow: 5px 5px 10px white;
     font-size: 7vh;
     font-family: sans-serif;
+    text-decoration: underline;
 }
 
 /* Setting width and display
@@ -47,6 +48,7 @@ h1.title-MAHV {
     color: white;
     text-align: center;
     text-shadow: 5px 5px 10px black;
+    text-decoration: underline;
 }
 
 /* Stylingg the link providded at the end */
