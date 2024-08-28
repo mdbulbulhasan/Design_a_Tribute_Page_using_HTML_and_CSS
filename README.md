@@ -6,6 +6,7 @@ design, incorporating a header with a centered title, a main section with conten
 a footer for additional information or credits.
 
 Approach:
+
 -> In the <body> element, we will give the title of the page using the h1 tag after that we will add an image 
 of him in the img tag with some caption. We will create another div tag and write all the contents (using p tags).
 
