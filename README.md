@@ -13,3 +13,5 @@ of him in the img tag with some caption. We will create another div tag and writ
 -> We have also given an ID for each tag so that we can beautify the design using the respective ID in the CSS file.
 
 -> In the CSS section, we have maintained a central design and used box-shadow to create a box effect around the main content.
+
+https://mdbulbulhasan.github.io/Design_a_Tribute_Page_using_HTML_and_CSS/
